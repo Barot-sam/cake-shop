@@ -1,0 +1,33 @@
+/******* Customized Bootstrap ********/
+
+// $primary: #E0BEAC;
+// $secondary: #faf3eb;
+// $light: #ffffff;
+// $dark: #2b2825;
+
+$primary: #d4a373; // Soft caramel (inspired by bakery tones)
+$secondary: #f5e6da; // Warm pastel cream (background & cake elements)
+$accent1: #a6745a; // Rich brown (chocolate cake & wood elements)
+$accent2: #eba4b3; // Soft pink (strawberry cake & bakery decor)
+$light: #ffffff; // Pure white (frosting highlights)
+$dark: #3b302a; // Deep brown (bakery sign & chocolate elements)
+
+$font-family-sans-serif: "Open Sans", sans-serif;
+
+$headings-font-family: "Oswald", sans-serif;
+
+$body-color: #656565;
+
+$headings-color: $dark;
+
+$display-font-weight: 700;
+
+$enable-responsive-font-sizes: true;
+
+$border-radius: false;
+
+$link-decoration: none;
+
+$enable-negative-margins: true;
+
+@import "bootstrap/scss/bootstrap";
